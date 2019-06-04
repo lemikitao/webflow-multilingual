@@ -2923,6 +2923,10 @@
       name: "Serbian",
       nativeName: "српски језик"
     },
+    sr-Cyrl: {
+      name: "Serbian-syrl",
+      nativeName: "српски језик"
+    },
     ss: {
       name: "Swati",
       nativeName: "SiSwati"
